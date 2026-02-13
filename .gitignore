@@ -1,0 +1,11 @@
+# Don't upload database files
+*.db
+*.sqlite
+
+# Don't upload Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Don't upload data files (optional - you can keep them)
+# data/
