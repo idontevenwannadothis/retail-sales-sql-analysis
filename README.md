@@ -254,10 +254,9 @@ This project is open source and available under the MIT License.
 ## 📞 Contact
 
 For questions or collaboration opportunities:
-- **Project Link**: [GitHub Repository]
-- **Author**: [Your Name]
-- **Email**: [Your Email]
-- **LinkedIn**: [Your LinkedIn Profile]
+- **Project Link**: [(https://github.com/idontevenwannadothis/retail-sales-sql-analysis)]
+- **Author**: [Fabrizio Dari]
+- **Email**: [fabriziodari1@gmail.com]
 
 ---
 
